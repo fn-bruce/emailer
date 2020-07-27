@@ -27,8 +27,8 @@ Quick start
 
 5. Within the ``.env`` file, create two variables for email and password::
 
-   EMAIL=youremailhere@gmail.com
-   PASSWORD=yourpasswordhere
+   ``EMAIL=youremailhere@gmail.com``
+   ``PASSWORD=yourpasswordhere``
 
 6. Start the development server and visit http://127.0.0.1:8000/admin/
    to create emails (you'll need the Admin app enabled).
