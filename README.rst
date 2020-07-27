@@ -33,4 +33,4 @@ Quick start
 6. Start the development server and visit http://127.0.0.1:8000/admin/
    to create emails (you'll need the Admin app enabled).
 
-7. Visit http://127.0.0.1:8000/emailer/ to participate in the poll.
+7. Visit http://127.0.0.1:8000/emailer/ to start sending emails.
