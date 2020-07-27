@@ -1,0 +1,6 @@
+include LICENSE
+include README.rst
+recursive-include emailer/static *
+recursive-include emailer/templates *
+recursive-include docs *
+
