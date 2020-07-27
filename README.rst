@@ -25,8 +25,8 @@ Quick start
 
 4. Create a ``.env`` file in the root of your project.
 
-5. Within the ``.env`` file, create two variables for email and password::
-
+5. Within the ``.env`` file, create two variables for email and password:
+   
    ``EMAIL=youremailhere@gmail.com``
    ``PASSWORD=yourpasswordhere``
 
